@@ -2,7 +2,6 @@ name: MSDS603
 channels:
   - defaults
 dependencies:
-  - appnope=0.1.0
   - asn1crypto=0.24.0
   - attrs=19.1.0
   - backcall=0.1.0
