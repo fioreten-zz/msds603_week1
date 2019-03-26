@@ -4,7 +4,7 @@ import urllib.request
 
 from user_definition import *
 
-output_file = open(git_repo_name+"/"+output_file_name, "a")
+output_file = open("msds603_week1/"+output_file_name, "a")
 # https://developers.google.com/maps/documentation/javascript/get-api-key
 #apikey = 'AIzaSyCTWPyWsLgoMH6w_1iEf161paxhTiK1dNk'
 apikey = 'AIzaSyAmeBuOF4O11_A_j_WxVXCD5yQYn0--Veg'
